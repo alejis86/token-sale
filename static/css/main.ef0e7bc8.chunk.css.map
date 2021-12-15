@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AACA,UAAW,aAAa,CAAE,WAAW,CAAE,gBAAiB,CACxD,YAAa,iBAAkB,CAC/B,YAAa,sBAAwB","file":"main.ef0e7bc8.chunk.css","sourcesContent":["/* Styles go here */\n.App-logo {display:block; width:120px; margin:10px auto;}\n.centertext {text-align:center;}\n.topbuttons {display:none !important;}"]}
